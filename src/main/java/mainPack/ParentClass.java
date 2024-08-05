@@ -6,4 +6,8 @@ public class ParentClass {
 		System.out.println("My Method");
 	}
 	
-}
+	//public void nambi
+	
+	//public void ramya
+	
+	}
